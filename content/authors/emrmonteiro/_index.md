@@ -30,7 +30,7 @@ social:
   link: mailto:emrmonteiro@precisioninno.com
 - icon: linkedin
   icon_pack: fab
-  link: http://www.linkedin.com/in/eder-matheus-rodrigues-monteiro
+  link: https://www.linkedin.com/in/eder-matheus-rodrigues-monteiro
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

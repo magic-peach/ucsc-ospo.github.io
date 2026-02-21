@@ -47,7 +47,7 @@ image:
 
 -   [Teaching Open Source](https://teachingopensource.org) (website,
     mailing list, virtual talks)
--   [Foss2serve](http://foss2serve.org) (faculty
+-   [Foss2serve](https://foss2serve.org) (faculty
     teaching with humanitarian projects, POSSE workshops)
 
 ## Self-Learning / Friendly Entry Points
@@ -69,7 +69,7 @@ image:
 
 ## Community
 
--   [Community Blueprint](http://openinfra.dev/experience) (share
+-   [Community Blueprint](https://openinfra.dev/experience) (share
     your story!)
 -   [Cyberscape zine](https://www.canva.com/design/DAFfXNmlV6c/ROH5x8hi8iorow2sT-fxVA/edit?utm_content%3DDAFfXNmlV6c%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink2%26utm_source%3Dsharebutton)
 -   [The Open Source Way](https://www.theopensourceway.org)
@@ -81,7 +81,7 @@ image:
 ## Oft-Referenced Books
 
 -   [The Art of Community, by Jono Bacon](https://www.jonobacon.com/books/artofcommunity/)
--   [The Cathedral and the Bazaar, by Eric S. Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+-   [The Cathedral and the Bazaar, by Eric S. Raymond](https://www.catb.org/~esr/writings/cathedral-bazaar/)
 
 ## Best Practices & Metrics
 

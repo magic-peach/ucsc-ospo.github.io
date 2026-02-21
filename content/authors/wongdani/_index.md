@@ -57,6 +57,6 @@ user_groups:
 - University of California Mentors
 ---
 
-Daniel Wong is the project leader of the [SoCAL](http://www.danielwong.org/) group. 
+Daniel Wong is the project leader of the [SoCAL](https://www.danielwong.org/) group. 
 
 {{% cta cta_text="More ..." cta_link="https://www.danielwong.org" %}}

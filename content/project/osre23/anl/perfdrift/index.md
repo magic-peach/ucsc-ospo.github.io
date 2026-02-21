@@ -25,7 +25,7 @@ Through this research, we seek to contribute the following:
 - **Skills:** C++, Python, Statistics, good to have: Machine Learning, Deep learning
 - **Difficulty:** Moderate
 - **Size:** Large (350 hours)
-- **Mentors:** Sandeep Madireddy (https://www.anl.gov/profile/sandeep-r-madireddy, http://www.mcs.anl.gov/~smadireddy/ ), Ray Andrew Sinurat (https://rayandrew.me)
+- **Mentors:** Sandeep Madireddy (https://www.anl.gov/profile/sandeep-r-madireddy, https://www.mcs.anl.gov/~smadireddy/ ), Ray Andrew Sinurat (https://rayandrew.me)
 - **Contributor(s):** {{% mention kangrui %}}
 
 All in all, these are the specific tasks that the student should do:

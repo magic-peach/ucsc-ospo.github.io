@@ -17,7 +17,7 @@ organizations:
 - name: Department of Electrical and Computer Engineering
   url: "https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering"
 - name: Center for Advanced Technology in Telecommunications (CATT)
-  url: "http://catt.nyu.edu/"
+  url: "https://catt.nyu.edu/"
 - name: NYU WIRELESS
   url: "https://wireless.engineering.nyu.edu/"
 - name: NYU Tandon School of Engineering

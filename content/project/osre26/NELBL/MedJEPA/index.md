@@ -102,7 +102,7 @@ This project will deliver three components: software implementation,  clinical e
 - Revisiting Feature Prediction for Learning Visual Representations from Video (V-JEPA) - Adrien Bardes et al., arXiv 2024
 - Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture - Mahmoud Assran et al., CVPR 2023 (I-JEPA)
 - ChestX-ray14: Hospital-Scale Chest X-Ray Database - https://nihcc.app.box.com/v/ChestXray-NIHCC
-- Medical Segmentation Decathlon - http://medicaldecathlon.com/
+- Medical Segmentation Decathlon - https://medicaldecathlon.com/
 - MIMIC-CXR Database - https://physionet.org/content/mimic-cxr/
 - The Cancer Imaging Archive (TCIA) - https://www.cancerimagingarchive.net/
 - UK Biobank Imaging Study - https://www.ukbiobank.ac.uk/enable-your-research/about-our-data/imaging-data

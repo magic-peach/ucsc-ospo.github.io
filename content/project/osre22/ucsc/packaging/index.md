@@ -7,7 +7,7 @@ date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---
 
-Project ideas related to reproducibility and package management, especially as it relates to _store type package managers_ ([NixOS](http://nixos.org/), [Guix](https://guix.gnu.org/) or [Spack](https://spack.io/)).
+Project ideas related to reproducibility and package management, especially as it relates to _store type package managers_ ([NixOS](https://nixos.org/), [Guix](https://guix.gnu.org/) or [Spack](https://spack.io/)).
 
 Lead Mentor: [Farid Zakaria](https://users.soe.ucsc.edu/~fmzakari) <mailto:fmzakari@ucsc.edu>
 ### Investigate the dynamic linking landscape
@@ -23,5 +23,5 @@ Dynamic linking as specified in the ELF file format has gone unchallenged since 
 Specific tasks:
 - Continue development on [Shrinkwrap](https://github.com/fzakaria/shrinkwrap) a tool to make dynamic library loading simpler and more robust.
 - Evaluate it's effectiveness across a wide range of binaries.
-- Upstream contributions to [NixOS](http://nixos.org/) or [Guix](https://guix.gnu.org/) to leverage the improvement when suitable.
+- Upstream contributions to [NixOS](https://nixos.org/) or [Guix](https://guix.gnu.org/) to leverage the improvement when suitable.
 - Investigate alternative improvements to dynamic linking by writing a dynamic linker "loadder wrapper" to explore new ideas.

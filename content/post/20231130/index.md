@@ -23,7 +23,7 @@ projects: [ospo]
 
 # About the Event
 
-{{% cta cta_text="Register on Zoom" cta_link="http://uchicago.zoom.us/webinar/register/WN_CF0ohbNUSlS_IN4szHJKFw" %}}
+{{% cta cta_text="Register on Zoom" cta_link="https://uchicago.zoom.us/webinar/register/WN_CF0ohbNUSlS_IN4szHJKFw" %}}
 
 Reproducibility is not just a sound scientific practice – it also has many potential practical applications in teaching and creating new research results. At this event, the attendees will learn about how to package their computer science research experiments in such a way that they are not only reproducible – but also practically reproducible, i.e., capable of being reproduced easily enough to be used as a mainstream method of interactive scientific exploration and exchange.
 
@@ -67,4 +67,4 @@ Participants will share their experiences during the hackathon and have time to 
 
 We hope to see you all on December 15!
 
-{{% cta cta_text="Sign Up Here!" cta_link="http://uchicago.zoom.us/webinar/register/WN_CF0ohbNUSlS_IN4szHJKFw" %}}
+{{% cta cta_text="Sign Up Here!" cta_link="https://uchicago.zoom.us/webinar/register/WN_CF0ohbNUSlS_IN4szHJKFw" %}}
