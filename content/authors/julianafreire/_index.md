@@ -18,7 +18,7 @@ organizations:
 - name: Department of Computer Science and Engineering
   url: "https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"
 - name: Center for Data Science
-  url: "http://cds.nyu.edu/"
+  url: "https://cds.nyu.edu/"
 - name: Courant Institute of Mathematical Sciences
   url: "https://cims.nyu.edu/dynamic/"
 - name: New York University
@@ -39,7 +39,7 @@ social:
   link: mailto:juliana.freire@nyu.edu
 - icon: linkedin
   icon_pack: fab
-  link: http://www.linkedin.com/profile/view?id=1484132
+  link: https://www.linkedin.com/profile/view?id=1484132
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jfreirenet

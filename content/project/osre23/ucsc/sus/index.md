@@ -10,8 +10,8 @@ lastmod: 2023-02-10
 Contributing to an open source project offers novices the opportunity to join a community of practitioners, build a technical portfolio, gain experience with industry tools and technologies, and have real-world impact. This project seeks to invite and support broader, more diverse participation in open source by supporting _early contributors_ – especially those who have been historically minoritized within tech. 
 
 This work builds upon a number of existing projects with similar or overlapping goals. Some examples:
-- The [Teaching Open Source (TOS) community](http://teachingopensource.org), which brings together instructors teaching open source 
-- The [Professors' Open Source Software Experience (POSSE) workshops and wiki](http://foss2serve.org/index.php/POSSE), for faculty teaching - or wanting to teach - open source 
+- The [Teaching Open Source (TOS) community](https://teachingopensource.org), which brings together instructors teaching open source 
+- The [Professors' Open Source Software Experience (POSSE) workshops and wiki](https://foss2serve.org/index.php/POSSE), for faculty teaching - or wanting to teach - open source 
 - Internships such as [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com), [Outreachy](https://www.outreachy.org), and the [MLH Fellowship](https://fellowship.mlh.io)
 - [Open Source Comes to Campus](https://campus.openhatch.org), offering student workshops on tools and culture _[no longer active]_
 - [Google Code-in](https://codein.withgoogle.com/archive/), inviting pre-university students to make open source contributions _[no longer active]_

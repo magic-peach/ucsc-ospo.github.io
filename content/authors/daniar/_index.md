@@ -39,6 +39,6 @@ email: ""
 user_groups:
 - Summer of Reproducibility Mentors
 ---
-Hi, my name is Daniar, but you can call me **Dan**. I am currently pursuing a Ph.D. in Computer Science at the University of Chicago, where I am a member of the [UCARE](https://ucare.cs.uchicago.edu/) research group and have the privilege of being advised by Professor [Haryadi Gunawi](http://people.cs.uchicago.edu/~haryadi/). I received my bachelor degree from Institut Teknologi Bandung (ITB), Indonesia, where I graduated with a cum laude distinction. 
+Hi, my name is Daniar, but you can call me **Dan**. I am currently pursuing a Ph.D. in Computer Science at the University of Chicago, where I am a member of the [UCARE](https://ucare.cs.uchicago.edu/) research group and have the privilege of being advised by Professor [Haryadi Gunawi](https://people.cs.uchicago.edu/~haryadi/). I received my bachelor degree from Institut Teknologi Bandung (ITB), Indonesia, where I graduated with a cum laude distinction. 
 
 {{% cta cta_text="More ..." cta_link="https://people.cs.uchicago.edu/~daniar/" %}}

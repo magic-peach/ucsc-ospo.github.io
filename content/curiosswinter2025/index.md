@@ -51,7 +51,7 @@ The CURIOSS Winter Workshop 2025 is a one-day event designed to foster collabora
 # Schedule 
 
 - Current Agenda [here](https://docs.google.com/document/d/1pSRToAvQFvWYWSDF4Mxitc60zPILaesqlW82pbzVoU4/edit?usp=sharing). 
-- We are excited that the Santa Cruz Whart reopened last weekend! The Janury 8 event will be at [Olita's](http://www.olitassantacruz.com/) starting at 5:30pm. It is a short walk from the hotel along the wharf. We will provide a taco and nacho bar as well as beverages of your choice. We can order additional items to accommodate any dietary requirements.    
+- We are excited that the Santa Cruz Whart reopened last weekend! The Janury 8 event will be at [Olita's](https://www.olitassantacruz.com/) starting at 5:30pm. It is a short walk from the hotel along the wharf. We will provide a taco and nacho bar as well as beverages of your choice. We can order additional items to accommodate any dietary requirements.    
 - The January 9th meeting will run from 8:45am to about 5pm, followed by a dinner at the meeting venue. 
 
 

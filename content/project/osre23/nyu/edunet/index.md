@@ -20,7 +20,7 @@ In the field of computer networks and wireless communication systems, the availa
 * **Size**: 350 hours
 * **Mentor(s)**: {{% mention ffund %}} and TBD
 
-To make foundational results from computer networks more concrete, this project seeks to reproduce a selection of key results and package them for use as interactive classroom demonstrations. (An example of a "foundational" result might be the result from the 1980s that motivates congestion control by showing how [congestion collapse occurs when the network is under heavy load](http://dx.doi.org/10.1016/0169-7552(89)90019-6).) This involves:
+To make foundational results from computer networks more concrete, this project seeks to reproduce a selection of key results and package them for use as interactive classroom demonstrations. (An example of a "foundational" result might be the result from the 1980s that motivates congestion control by showing how [congestion collapse occurs when the network is under heavy load](https://dx.doi.org/10.1016/0169-7552(89)90019-6).) This involves:
 
 
 * Reproducing the original results on an open-access testbed

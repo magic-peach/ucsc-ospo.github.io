@@ -27,7 +27,7 @@ Hello! My name is Kiran and this summer I'll be working with [Polyphy](/project/
 The full [proposal](https://drive.google.com/file/d/1iwKU938uzUHn0oY2tM0jPADOYoF0kqbh/view?usp=sharing) is available online. 
 
 For a brief overview, the Polyglot app allows users to interact with a 3D network of high-dimensional language embeddings, specfically the 
-[Gensim Continuous Skipgram result of Wikipedia Dump of February 2017 (296630 words)](http://vectors.nlpl.eu/repository/) dataset. The high-dimensional
+[Gensim Continuous Skipgram result of Wikipedia Dump of February 2017 (296630 words)](https://vectors.nlpl.eu/repository/) dataset. The high-dimensional
 embeddings are reduced to 3 dimensions using UMAP. The novel [MCPM slime mode metric](https://iopscience.iop.org/article/10.3847/2041-8213/ab700c/pdf) is then used
 to compute the similarty levels between points (much like how you might compute the Euclidean distance between two points). These similarity levels are used
 to filter the network and enable users to find interesting patterns in their data they might not find using quantitative methods alone. For example, the network has

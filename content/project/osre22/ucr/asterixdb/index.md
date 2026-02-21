@@ -7,7 +7,7 @@ date: 2022-11-07T10:15:56-07:00
 lastmod: 2022-11-07T10:15:56-07:00
 ---
 
-[AsterixDB](http://asterixdb.apache.org/) is an open source parallel big-data management system. AsterixDB is a well-established Apache project that has beedddn active in research for more than 10 years. It provides a flexible data model that supports modern NoSQL applications with a powerful query processor that can scale to billions of records and terabytes of data. Users can interact with AsterixDB through a power and easy to use declarative query language, SQL++, which provides a rich set of data types including timestamps, time intervals, text, and geospatial, in addition to traditional numerical and Boolean data types.
+[AsterixDB](https://asterixdb.apache.org/) is an open source parallel big-data management system. AsterixDB is a well-established Apache project that has beedddn active in research for more than 10 years. It provides a flexible data model that supports modern NoSQL applications with a powerful query processor that can scale to billions of records and terabytes of data. Users can interact with AsterixDB through a power and easy to use declarative query language, SQL++, which provides a rich set of data types including timestamps, time intervals, text, and geospatial, in addition to traditional numerical and Boolean data types.
 
 ### Geospatial Data Science on AsterixDB
 

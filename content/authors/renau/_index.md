@@ -57,6 +57,6 @@ user_groups:
 - University of California Mentors
 ---
 
-Jose Renau is the project leader of the [MASC](http://masc.soe.ucsc.edu/) group. 
+Jose Renau is the project leader of the [MASC](https://masc.soe.ucsc.edu/) group. 
 
 {{% cta cta_text="More ..." cta_link="https://users.soe.ucsc.edu/~renau/" %}}

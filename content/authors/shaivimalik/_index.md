@@ -15,7 +15,7 @@ role: "Computer Science and Engineering student"
 # Organizations/Affiliations
 organizations:
 - name: Guru Gobind Singh Indraprastha University
-  url: "http://www.ipu.ac.in"
+  url: "https://www.ipu.ac.in"
 
 
 # Short bio (displayed in user profile at end of posts)

@@ -123,7 +123,7 @@ This year's event is free for all attendees! However, we welcome [voluntary dona
 
 ## Hotels in Santa Cruz
 
-- [Dream Inn](http://www.dreaminnsantacruz.com)  
+- [Dream Inn](https://www.dreaminnsantacruz.com)  
 175 West Cliff Drive, Santa Cruz, CA 95060  
 *Call 831-426-4330 and ask for the UCSC rate (rates not available online)*  
 

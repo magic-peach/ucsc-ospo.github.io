@@ -45,6 +45,6 @@ user_groups:
 ---
 I am currently a joint BS/MS computer science student at **University of Chicago** with **computer systems** concentration. My research area lies in improving reliability, efficiency and performance of storage systems through novel erasure coding schemes, placement schemes, and machine learning.
           
-I am a member of [UChicago systems research on Availability, Reliability and Efficiency(UCARE)](https://ucare.cs.uchicago.edu/) where I am fortunate to be advised by [**Professor Haryadi Gunawi**](http://people.cs.uchicago.edu/~haryadi/).<br/><br/>
+I am a member of [UChicago systems research on Availability, Reliability and Efficiency(UCARE)](https://ucare.cs.uchicago.edu/) where I am fortunate to be advised by [**Professor Haryadi Gunawi**](https://people.cs.uchicago.edu/~haryadi/).<br/><br/>
 
 During my free time, I enjoy the company of my two cats, who are **the cutest** in the world. I also love to cook, though different people might have different regards on how good they are :)
